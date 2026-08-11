@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aditya kumar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **Hotel_management_system**
+- 🔭 I’m currently working on **A-Geo-based-Complaint-Management-Backend**
 
-- 📫 How to reach me **Aditya.k15@yahoo.com**
+- 📫 How to reach me **Aditya.k15@yahoo.com && Aditya.k151001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
